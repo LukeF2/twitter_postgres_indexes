@@ -1,0 +1,24 @@
+COPY 0
+COPY 0
+parallel: SIGHUP received. No new jobs will be started.
+parallel: Waiting for these 10 jobs to finish. Send SIGTERM to stop now.
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-07.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-06.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-08.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-01.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-02.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-04.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-03.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-10.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-05.zip
+parallel: ./load_denormalized.sh /data/tweets/geoTwitter21-01-09.zip
+COPY 2979992
+COPY 3044365
+COPY 3038917
+COPY 3143286
+COPY 3189325
+COPY 3129896
+COPY 3157691
+COPY 3148130
+COPY 3306556
+COPY 3376266
